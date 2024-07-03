@@ -1,11 +1,11 @@
 {
 
   "SuperBit.RGB_Program|block": "RGB_Program",
-  "SuperBit.Music|block": "音楽",
+  "SuperBit.Music|block": "音楽を鳴らす",
   "SuperBit.Servo|block":  "サーボモーター(180°) No. %num|を %value|°動かす",
   "SuperBit.Servo2|block": "サーボモーター(270°) No. %num|を %value|°動かす",
   "SuperBit.Servo3|block": "サーボモーター(360°) No. %num|を %pos|° 速度 %value|°で動かす",
-  "SuperBit.MotorRun|block": " DCモーター No.|%index|を速度(-255~255) %speed|°で動かす",
-  "SuperBit.MotorRunDual|block": "DCモーター No|%motor1|速度(-255~255) %speed1で、|%motor2|を速度(-255~255) %speed2|で動かす",
+  "SuperBit.MotorRun|block": " DCモーター(%index|)を速度(-255~255) %speed|で動かす",
+  "SuperBit.MotorRunDual|block": "DCモーター(%motor1|)を速度(-255~255) %speed1|、DCモーター(%motor2|)を速度(-255~255) %speed2|で動かす",
   "SuperBit.MotorStopAll|block": "DCモーターを止める"
 }
