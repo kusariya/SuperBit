@@ -1,8 +1,8 @@
 {
   "SuperBit.RGB_Program|block": "RGB_Program",
   "SuperBit.Music|block": "音楽(%index|)を鳴らす",
-  "SuperBit.Servo|block":  "サーボモーター(180°) No. %num|を %value|° 動かす",
-  "SuperBit.Servo2|block": "サーボモーター(270°) No. %num|を %value|° 動かす",
+  "SuperBit.Servo|block":  "サーボモーター(180°) No. %num|を %value|° の位置に動かす",
+  "SuperBit.Servo2|block": "サーボモーター(270°) No. %num|を %value|° の位置に動かす",
   "SuperBit.Servo3|block": "サーボモーター(360°) No. %num|を %pos|に %value|° 動かす",
   "SuperBit.enPos.forward|block":"順方向",
   "SuperBit.enPos.reverse|block":"逆方向",
